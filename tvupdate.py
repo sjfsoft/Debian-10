@@ -4,7 +4,7 @@ import requests, json, re, sys, time, execjs, hashlib
 from urllib import request
 
 source_file = r'/root/Channel.json'
-target_file = r'/var/www/tv.sjfvip.tk/tvjson/shenjunfeng.json'
+target_file = r'/var/www/tv/tvjson/shenjunfeng.json'
 log_file = r'/var/log/tv.log'
 num = 1
 
